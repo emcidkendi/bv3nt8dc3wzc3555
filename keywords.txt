@@ -1,8 +1,8 @@
-# 메루카리 검색 키워드 목록 — Vol.2
+# 메루카리 검색 키워드 목록 — Vol.2 (스포츠/라이센스)
 # 가격 상한: ¥9,000 미만
 
 # ════════════════════════════════
-# 1. 스포츠 라이센스
+# 1. 스포츠 라이센스 (핵심)
 # ════════════════════════════════
 スターター tシャツ ビンテージ
 starter vintage tシャツ
@@ -16,63 +16,76 @@ pro player vintage tシャツ
 majestic vintage tシャツ
 ラッセルアスレチック tシャツ ビンテージ
 russell athletic vintage tシャツ
-NFL tシャツ ビンテージ USA 90s
-winner's circle vintage tシャツ
-セーラム スポーツウェア tシャツ
+セーラム tシャツ ビンテージ
 salem sportswear vintage tシャツ
 ベイサイド tシャツ ビンテージ
 bayside vintage tシャツ
 
 # ════════════════════════════════
-# 2. 빈티지 블랭크 희귀 태그
+# 2. NBA / NFL / MLB 팀 빈티지
 # ════════════════════════════════
-シグナル メガティー tシャツ ビンテージ
-signal mega tee vintage tシャツ
+NBA tシャツ ビンテージ 90s
+NFL tシャツ ビンテージ 90s
+MLB tシャツ ビンテージ 90s
+ブルズ tシャツ ビンテージ
+chicago bulls vintage tシャツ
+レイカーズ tシャツ ビンテージ
+lakers vintage tシャツ
+ニックス tシャツ ビンテージ
+knicks vintage tシャツ
+カウボーイズ tシャツ ビンテージ
+cowboys vintage tシャツ
+ヤンキース tシャツ ビンテージ
+yankees vintage tシャツ
+
+# ════════════════════════════════
+# 3. 빈티지 블랭크 희귀 태그
+# ════════════════════════════════
+シグナル tシャツ ビンテージ
+signal vintage tシャツ
 タルテックス tシャツ ビンテージ
 tultex vintage tシャツ
-トレンチ tシャツ ビンテージ USA
+トレンチ tシャツ ビンテージ
 trench vintage tシャツ
 アーテックス tシャツ ビンテージ
-artex sportswear vintage tシャツ
-ステッドマン ハイクルー tシャツ
-stedman super hi-cru vintage tシャツ
+artex vintage tシャツ
+ステッドマン tシャツ ビンテージ
+stedman vintage tシャツ
 タッチオブゴールド tシャツ ビンテージ
 touch of gold vintage tシャツ
 ギアフォースポーツ tシャツ ビンテージ
 gear for sports vintage tシャツ
 ムリナ tシャツ ビンテージ
 murina vintage tシャツ
-SSI tシャツ ビンテージ USA
-M&O ニット tシャツ ビンテージ
-ベイサイド ヘビーウェイト tシャツ
+SSI tシャツ ビンテージ
 
 # ════════════════════════════════
-# 3. 라이센스 캐릭터
+# 4. 라이센스 캐릭터
 # ════════════════════════════════
-ディズニー キャラクター tシャツ ビンテージ USA
-disney character fashion vintage tシャツ
+ディズニー tシャツ ビンテージ USA
+disney vintage tシャツ
 ワーナーブラザーズ tシャツ ビンテージ
 warner bros vintage tシャツ
 ルーニーテューンズ tシャツ ビンテージ
 looney tunes vintage tシャツ
-バットマン tシャツ ビンテージ USA
+バットマン tシャツ ビンテージ
 batman vintage tシャツ
-スーパーマン tシャツ ビンテージ USA
+スーパーマン tシャツ ビンテージ
 superman vintage tシャツ
-ミッキー tシャツ ビンテージ USA製
+ミッキー tシャツ ビンテージ USA
 アーティモード tシャツ ビンテージ
 artimode vintage tシャツ
 
 # ════════════════════════════════
-# 4. WWE / 레슬링
+# 5. WWE / 레슬링
 # ════════════════════════════════
 WWF tシャツ ビンテージ
-WWE tシャツ ビンテージ 90s
-ワールドレスリング tシャツ ビンテージ
+WWE tシャツ ビンテージ
+ワールドレスリング tシャツ
 world wrestling vintage tシャツ
 
 # ════════════════════════════════
-# 5. 하드코어 / 밴드
+# 6. 밴드 / 하드코어
 # ════════════════════════════════
 ブロッカム tシャツ ビンテージ
 brockum vintage tシャツ
@@ -82,9 +95,9 @@ liquid blue vintage tシャツ
 metallica vintage tシャツ
 
 # ════════════════════════════════
-# 6. 공통 광범위
+# 7. 공통 광범위
 # ════════════════════════════════
-ライセンス tシャツ ビンテージ USA 90s
-キャラクター tシャツ ビンテージ USA製
-スポーツ ライセンス tシャツ ビンテージ 90s
-シングルステッチ ライセンス tシャツ ビンテージ
+ライセンス tシャツ ビンテージ
+スポーツ tシャツ ビンテージ USA
+キャラクター tシャツ ビンテージ
+シングルステッチ tシャツ ビンテージ
